@@ -1,0 +1,20 @@
+{
+  "name": "htube-backend",
+  "version": "1.0.0",
+  "description": "Backend for youtube like app with similar functionalities made using Node.js, Express and mongodb",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Harsh Agarwal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
