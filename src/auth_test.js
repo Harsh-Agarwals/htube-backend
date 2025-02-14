@@ -75,5 +75,5 @@ app.post('/signin', async (req, res) => {
 })
 
 app.listen(PORT, () => {
-    console.log(`Server RUNNING at PORT ${PORT}`);    
+    console.log(`Server RUNNING at PORT ${PORT}`);
 })
